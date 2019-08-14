@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/kiyoh_customerreview",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "KiyOh.nl-gebruikers kunnen met deze plug-in automatisch klantbeoordelingen verzamelen",
+    "authors": [
+    {
+        "name": "webmeester",
+        "email": "info@webmeester.eu"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
