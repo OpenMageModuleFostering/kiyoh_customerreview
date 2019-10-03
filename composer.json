@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/kiyoh_customerreview",
+    "name": "openmage-module-fostering\/kiyoh_customerreview",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "KiyOh.nl-gebruikers kunnen met deze plug-in automatisch klantbeoordelingen verzamelen",
     "authors": [
